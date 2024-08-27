@@ -1,4 +1,4 @@
-# Recipe_App
+# Recipe_Book
 
 A Flutter recipe app for Android offers users a variety of recipes from different cuisines. It includes features like viewing detailed instructions and ingredients, and youtube links. The app typically has a user-friendly interface with images and categories for easy navigation.
 
